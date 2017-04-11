@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\huylv\.android\build-cache\3a7f8a68dc1f2955990a5e09f01de3ab7caad335\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="D:\ANDROID\github\explorer\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-a61f600274f001c55d896aa7d5b1495cb62df19a.jar" />
+    </item>
+    <item
+        jar="D:\ANDROID\SetUpAndroid\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="D:\ANDROID\github\explorer\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\support-annotations-25.1.0-a99e1f2375d407b9659b7124b832d737e827758b.jar" />
+    </item>
+    <item
+        jar="C:\Users\huylv\.android\build-cache\96441125e88c71fa13ff0286e5777b1b051035f6\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="01acd167d64a3835490f0d058c9e9052a514797c">
+        <dex dex="D:\ANDROID\github\explorer\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-72277143459f649519afc84ec1824fb4a4029487.jar" />
+    </item>
+    <item
+        jar="C:\Users\huylv\.android\build-cache\3efd5f8d6abb0285ce222a050623b389b8b205d3\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="D:\ANDROID\github\explorer\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-5960eeacb50a8f7b37f0648b8c0649b8c079676c.jar" />
+    </item>
+    <item
+        jar="C:\Users\huylv\.android\build-cache\2f03ef192c36890158596cb09b6a0793aa6d412b\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="73591df4ec047e55db9415034d1dfab617fa9f3c">
+        <dex dex="D:\ANDROID\github\explorer\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-d3e7af6d1cdc3a7344454c0e285ee54324dca0b1.jar" />
+    </item>
+    <item
+        jar="C:\Users\huylv\.android\build-cache\705b4508d80b5a34fc6eca30f9689eda563eda9f\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="D:\ANDROID\github\explorer\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-6e1638fb55aebbea697d4750660bd223f3c7ea29.jar" />
+    </item>
+    <item
+        jar="C:\Users\huylv\.android\build-cache\3fde7bdf3d4b27fe963c4cd0095cf9cc96d71013\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="D:\ANDROID\github\explorer\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-14aec15f045980d92a90d80657498afd81c7e1b7.jar" />
+    </item>
+    <item
+        jar="C:\Users\huylv\.android\build-cache\7de3ca36353ca2d244c419fe75812703d630a0b4\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="D:\ANDROID\github\explorer\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-b5a3412420021904fba83aaac81b1aba6577fc1b.jar" />
+    </item>
+    <item
+        jar="C:\Users\huylv\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.5.2\ecf534dba3a8446ce84cbb797d314763be212a68\glide-3.5.2.jar"
+        revision="25.0.2"
+        sha1="ecf534dba3a8446ce84cbb797d314763be212a68">
+        <dex dex="D:\ANDROID\github\explorer\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\glide-3.5.2-d06e132928888bb514ae1879fb85ac66c39d58b7.jar" />
+    </item>
+    <item
+        jar="C:\Users\huylv\.android\build-cache\7382f176d15598f2fa8d0cb91ea7697c9939565a\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="7f2420506110902f033406b25697cf97ee8c38b2">
+        <dex dex="D:\ANDROID\github\explorer\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-fa1e9865b31c0ebfe18b51ee4b3a15f2b7fe660e.jar" />
+    </item>
+    <item
+        jar="C:\Users\huylv\.android\build-cache\a63d573aabffc3a2a1290914b7e7660453bdfdb8\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="D:\ANDROID\github\explorer\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-b0ae878560282bfd7438cdc4f37eaaff1d938131.jar" />
+    </item>
+    <item
+        jar="C:\Users\huylv\.android\build-cache\ab8a5206abf53f4a14a6b15b6186dcdbd0c13e41\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="D:\ANDROID\github\explorer\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-16ca7c2a86679d39e01b15fbf8087815256ed4c8.jar" />
+    </item>
+    <item
+        jar="C:\Users\huylv\.android\build-cache\b0b9dc8b18f6ecf014a42cdeacc48aff78310537\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="D:\ANDROID\github\explorer\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-ec63b4a19637aec6aff6c5bcd7df473ef726164b.jar" />
+    </item>
+    <item
+        jar="C:\Users\huylv\.android\build-cache\afc7c17ef7c1926bef0ad346874671f1b0ebd330\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="D:\ANDROID\github\explorer\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-4e9b822647b2362349c3fb893ca20ef0bdd16f61.jar" />
+    </item>
+    <item
+        jar="C:\Users\huylv\.android\build-cache\6774a375cf1f10d8c824e8ef66e67334646c1ef2\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="D:\ANDROID\github\explorer\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-0d6d006db5581c3eea1cc536521d7691b7756aaf.jar" />
+    </item>
+    <item
+        jar="D:\ANDROID\SetUpAndroid\sdk\platforms\android-25\optional\org.apache.http.legacy.jar"
+        revision="25.0.2"
+        sha1="5f0541a4298daa0590b22cfbde43f85e2a675545">
+        <dex dex="D:\ANDROID\github\explorer\app\build\intermediates\transforms\preJackRuntimeLibraries\debug\jars\8000\40\org.apache.http.legacy-a953547ac2095ecbf00379809f66870eb0f11a8d.jar" />
+    </item>
+    <item
+        jar="C:\Users\huylv\.android\build-cache\fe5eae190573b6b3f6f3ed3574a3ddf6be4f0dda\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="6f68018b5ddc2493f5e5cecc5601c05d0539281a">
+        <dex dex="D:\ANDROID\github\explorer\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-6963e26d558f3d56580fe3d2a853c48679442787.jar" />
+    </item>
+    <item
+        jar="C:\Users\huylv\.android\build-cache\268613aa99a8fba817e1db91d4a69514c8ebe010\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\ANDROID\github\explorer\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-ed3f0702dc0ba296b06e96266e319eb8f6da3858.jar" />
+    </item>
+    <item
+        jar="C:\Users\huylv\.android\build-cache\9d577d92dc0c3f24612749c491d039e8f2737641\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="D:\ANDROID\github\explorer\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-4c95938494220cc66dc72ead3364af3a15a49931.jar" />
+    </item>
+    <item
+        jar="D:\ANDROID\SetUpAndroid\sdk\platforms\android-25\android.jar"
+        revision="25.0.2"
+        sha1="712a0312fe844a21a1b3812fa960c363a1578984">
+        <dex dex="D:\ANDROID\github\explorer\app\build\intermediates\transforms\preJackRuntimeLibraries\debug\jars\8000\40\android-65efa2c67d5ff776c6b47cc7fc9fce8d4e260457.jar" />
+    </item>
+
+</items>
