@@ -537,22 +537,16 @@ public class MainActivity extends AppCompatActivity {
     private void invalidateToolbar() {
 
         if (adapter.anySelected()) {
-
             toolbar.setNavigationIcon(R.drawable.ic_clear);
-
             toolbar.setNavigationOnClickListener(v -> adapter.clearSelection());
         }
-        else if (name == null && type == null) {
-
+//        else if (name == null && type == null) {
 //            toolbar.setNavigationIcon(R.drawable.ic_menu);
-
 //            toolbar.setNavigationOnClickListener(v -> drawerLayout.openDrawer(navigationView));
-        }
+//        }
         else {
-
             toolbar.setNavigationIcon(R.drawable.ic_back);
-
-            toolbar.setNavigationOnClickListener(v -> finish());
+            toolbar.setNavigationOnClickListener(v -> /*finish()*/onBackPressed());
         }
     }
 
